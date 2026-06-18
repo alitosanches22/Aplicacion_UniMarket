@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Aplicacion_UniMarket" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/unimarket_primary</item>
+        <item name="colorPrimaryContainer">@color/unimarket_chip</item>
+        <item name="colorSecondary">@color/unimarket_secondary</item>
+        <item name="colorTertiary">@color/unimarket_accent</item>
+        <item name="colorSurface">@color/unimarket_surface</item>
+        <item name="android:colorAccent">@color/unimarket_primary</item>
+        <item name="android:fontFamily">sans</item>
+    </style>
+
+    <style name="Theme.Aplicacion_UniMarket" parent="Base.Theme.Aplicacion_UniMarket" />
+</resources>

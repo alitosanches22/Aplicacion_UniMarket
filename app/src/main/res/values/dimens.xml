@@ -1,0 +1,14 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="spacing_xs">4dp</dimen>
+    <dimen name="spacing_sm">8dp</dimen>
+    <dimen name="spacing_md">16dp</dimen>
+    <dimen name="spacing_lg">24dp</dimen>
+    <dimen name="spacing_xl">32dp</dimen>
+    <dimen name="screen_padding">20dp</dimen>
+    <dimen name="card_radius">8dp</dimen>
+    <dimen name="product_thumb_size">88dp</dimen>
+    <dimen name="gallery_item_width">128dp</dimen>
+    <dimen name="gallery_item_height">84dp</dimen>
+    <dimen name="chat_bubble_max_width">280dp</dimen>
+</resources>

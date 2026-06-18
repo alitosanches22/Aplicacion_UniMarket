@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="unimarket_primary">#006D77</color>
+    <color name="unimarket_primary_dark">#004E57</color>
+    <color name="unimarket_secondary">#D95550</color>
+    <color name="unimarket_accent">#F2C94C</color>
+    <color name="unimarket_surface">#F7F8F3</color>
+    <color name="unimarket_card">#FFFFFFFF</color>
+    <color name="unimarket_ink">#1D2B2A</color>
+    <color name="unimarket_muted">#65716D</color>
+    <color name="unimarket_line">#D8DEDA</color>
+    <color name="unimarket_chip">#E6F0EF</color>
+    <color name="unimarket_success">#2E7D32</color>
+</resources>
